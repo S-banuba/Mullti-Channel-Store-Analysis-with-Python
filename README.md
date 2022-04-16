@@ -10,3 +10,4 @@ By exploring the data set to answer the following business tasks:
 
 # Findings
   1. 
+      ![]()
