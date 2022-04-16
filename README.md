@@ -8,6 +8,8 @@ By exploring the data set to answer the following business tasks:
   3. Which distribution outlet brings in much profit?
   4. Are they any customers buying from two more channels?
 
-# Findings
-  1. 
+#### Findings 1
+
       ![](https://github.com/S-banuba/Mullti-Channel-Store-Analysis-with-Python/blob/main/download.png)
+
+More sales coming from In-Store and Online
