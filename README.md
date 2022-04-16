@@ -11,22 +11,28 @@ By exploring the data set to answer the following business tasks:
 #### Findings 1: Distribution by Sales Channel
 
 ![](https://github.com/S-banuba/Mullti-Channel-Store-Analysis-with-Python/blob/main/download.png)
+
 Most orders are coming from In-store and Online. Same distribution on the basis of total profit.
 
 #### Findings 2: Annual trends
   
   ![](https://github.com/S-banuba/Mullti-Channel-Store-Analysis-with-Python/blob/main/download%20(1).png)
-  Between 2018 and 2019 saw a sharp increase in total profit, while the period between 2019 to 2020 witnessed a steady rise in profit.
+  
+  Between 2018 and 2019 saw a sharp increase in total profit, 
+  while the period between 2019 to 2020 witnessed a steady rise in profit.
   
  
 ##### Finding 3: Monthy trends
 
   ![](https://github.com/S-banuba/Mullti-Channel-Store-Analysis-with-Python/blob/main/df.png)
   
+  From half-year period till the end of the year orders more orders made. 
+  Besides, there is a dip in March orders, after that, it begins to progress from April.
   
-##### Finding 3 By Day of week
+##### Finding 4: By Day of Week
 
     ![](https://github.com/S-banuba/Mullti-Channel-Store-Analysis-with-Python/blob/main/weefgd.png)
+    
     Not much significant difference in orders made on the day of the week.
     
 # Recommendations:
