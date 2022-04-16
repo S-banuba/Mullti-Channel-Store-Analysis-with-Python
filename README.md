@@ -10,4 +10,4 @@ By exploring the data set to answer the following business tasks:
 
 # Findings
   1. 
-      ![]()
+      ![](https://github.com/S-banuba/Mullti-Channel-Store-Analysis-with-Python/blob/main/download.png)
